@@ -11,5 +11,5 @@ Right now, I’m diving deep into Machine Learning, Deep Learning, NLP, and Gene
 
 ## 📫 Contact
 - **Email:** suyashverma0023@gmail.com  
-- **LinkedIn:** [linkedin.com/in/suyash-verma-ai](https://www.linkedin.com/in/suyash-verma-ai)  
-- **GitHub:** [github.com/suyash-verma-AI](https://github.com/suyash-verma-AI)
+- **LinkedIn:** [linkedin.com/in/suyash-verma-ai](https://www.linkedin.com/in/suyash-codez)  
+- **GitHub:** [github.com/suyash-verma-AI](https://github.com/suyash-codez)

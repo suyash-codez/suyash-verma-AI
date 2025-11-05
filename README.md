@@ -1,23 +1,13 @@
-# Hey there! 👋 I'm Suyash Verma
 
-Aspiring **Full Stack & AI/ML Developer** | Python, Flask & Backend Projects 🤖
+👋 Hey there! I'm Suyash Verma
 
----
+I’m a B.Tech CSIT student passionate about how Data Science and Generative AI can transform ideas into intelligent, real-world solutions.
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C, C++  
-- **Web/Backend:** Flask, HTML, CSS, JS  
-- **Database:** SQL  
-- **AI/ML:** NumPy, Pandas, scikit-learn (DL & NLP upcoming)
+I love working with Python, SQL, and modern AI frameworks like LangChain and Hugging Face, creating projects that blend creativity with data-driven insights.
 
----
+Right now, I’m diving deep into Machine Learning, Deep Learning, NLP, and Generative AI, learning how intelligent systems can learn, reason, and create.
 
-## 💻 Projects
-- **Bank Management System (C)** – College Project  
-- **Blog App (Flask + SQL)** – Backend Project  
-- **AI Tools (Python + APIs)** – Final Year Plan  
-
----
+ My goal is to grow into a Data Scientist & GenAI Engineer — building AI that doesn’t just process data, but truly understands it.
 
 ## 📫 Contact
 - **Email:** suyashverma0023@gmail.com  
